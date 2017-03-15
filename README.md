@@ -1,7 +1,7 @@
 # HCWLaunchAdView
 一句话集成启动广告
 
-![image](https://github.com/huangchangweng/HCWProgressHUD/blob/master/HCWProgressHUD.gif)
+![image](https://github.com/huangchangweng/HCWLaunchAdView/blob/master/HCWLaunchAdView.gif)
 
 ## 使用方法
 
